@@ -2,12 +2,12 @@
     font-family: sans-serif;
     margin: 0; }
 
-body { background: #f4f7f6;
+body { background: #cbcccc;
        padding: 40px 20px;
        color: #333; }
 
 .box { max-width: 650px;
-    background: #fff;
+    background: #e3e1e1;
     margin: auto;
     padding: 20px;
     border-radius: 8px;
